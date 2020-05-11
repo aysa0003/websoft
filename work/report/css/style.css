@@ -10,3 +10,14 @@ body {
     background: #fff;
     width: 700px;
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blueviolet;
+    opacity: black;
+    color: white;
+    text-align: center;
+}
