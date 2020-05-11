@@ -1,0 +1,14 @@
+A01:
+
+Before this assignment I knew a little about Git and GitHub techniques and pages, 
+but the information about Markdown is a bit new to me. 
+GitHub has been used in prior courses. 
+However, it is my first time creating a website, 
+because I have no prior knowledge of creating websites before. 
+I have very little experience and knowledge of web application development. 
+
+
+My TIL for this course section and assignment has been getting knowledge about Markdown,
+what and how it is used for web development. 
+Markdown is used to write text that will be displayed on websites. 
+For this assignment we had to fork a repo which was also the first time I did that. 
